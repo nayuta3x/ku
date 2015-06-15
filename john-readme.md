@@ -1,1 +1,2 @@
-test
+GitHub supports emoji!
+🚹
